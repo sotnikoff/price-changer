@@ -1,4 +1,5 @@
 {
   "api_key": "key",
-  "currency": "EUR"
+  "currency": "EUR",
+  "api_endpoint": "https://rest.coinapi.io/v1/exchangerate/BTC/EUR"
 }
